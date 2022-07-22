@@ -1,0 +1,35 @@
+ * {
+     padding: 0px;
+     margin: 0px;
+ }
+
+ body {
+     background-color: #DDE5F4;
+
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .index {
+     background-color: #F1F7FE;
+     height: 500px;
+     width: 350px;
+     text-align: center;
+     border-radius: 10%;
+ }
+
+
+
+
+ input[type="text"] {
+
+     outline: none;
+ }
+
+
+ input[type="password"]:focus {
+
+     outline: none;
+ }
